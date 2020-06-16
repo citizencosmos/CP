@@ -33,6 +33,7 @@
        "valency": 1
     },
     {
+      "operator": "AHLNET",
       "addr": "relay1.ahlnet.nu",
       "port": 2111,
       "valency": 1
