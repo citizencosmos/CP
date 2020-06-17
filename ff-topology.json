@@ -37,6 +37,18 @@
       "addr": "relay1.ahlnet.nu",
       "port": 2111,
       "valency": 1
+    },
+    {
+      "operator": "CLEAR",
+      "addr": "194.32.79.115",
+      "port": 6010,
+      "valency": 1
+    },
+    {
+      "operator": "CLEAR",
+      "addr": "194.32.79.115",
+      "port": 6011,
+      "valency": 1
     }
   ]
 }
