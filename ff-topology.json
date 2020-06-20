@@ -39,15 +39,24 @@
       "valency": 1
     },
     {
-      "operator": "CLEAR",
-      "addr": "194.32.79.115",
+      "operator": "clear",
+      "node": "relay10",
+      "addr": "ff-relay-10.clearpoolada.com",
       "port": 6010,
       "valency": 1
     },
     {
-      "operator": "CLEAR",
-      "addr": "194.32.79.115",
+      "operator": "clear",
+      "node": "relay11",
+      "addr": "ff-relay-11.clearpoolada.com",
       "port": 6011,
+      "valency": 1
+    },
+    {
+      "operator": "clear",
+      "node": "relay01",
+      "addr": "ff-relay-01.clearpoolada.com",
+      "port": 6001,
       "valency": 1
     }
   ]
